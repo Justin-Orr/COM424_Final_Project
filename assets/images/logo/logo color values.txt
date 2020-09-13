@@ -1,0 +1,19 @@
+Logo Colors:
+
+Blue
+	R:		12.2
+	G:		73.7
+	B:		84.3
+	Hex: 	#1fbcd7
+	
+Red
+	R:		88.6
+  G:		32.5
+  B:		32.5
+  Hex:	#e25353
+	
+Green
+	R:		27.5
+  G:		67.1
+  B:		44.7
+  Hex:	#46ab72

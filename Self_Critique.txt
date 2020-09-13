@@ -1,0 +1,6 @@
+Fonts: 
+Monserrat for clean design and impact, it is also easier on the eyes. Lato for primary font since it comes from the old site and is simple is design.
+
+Home Page: 
+Fetatured content panel to grab viewer attention with huge high resultion imagery. Next is a summary of the organization for the viewers to be able to quickly navigate through the page.
+Next is a timeline of all of the upcoming events.

@@ -1,0 +1,1 @@
+The news section of the site seems to be obsolete in their redesign. Use a news item to mock up a blog post for the blog section.
