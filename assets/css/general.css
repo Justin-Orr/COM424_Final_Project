@@ -6,8 +6,18 @@
 }
 
 footer {
+  position: relative;
   font-family: Lato;
   display: flex;
   background-color: #333333;
   color: #BEBEBE;
+  padding: 10px;
+  padding-bottom: 30px;
+}
+
+footer p#copyright {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 10px;
 }
