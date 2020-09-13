@@ -5,13 +5,9 @@
        url(fonts/Lato-Regular.ttf);
 }
 
-body {
-  margin: 0;
-}
-
 footer {
   font-family: Lato;
   display: flex;
   background-color: #333333;
-  color: white;
+  color: #BEBEBE;
 }
