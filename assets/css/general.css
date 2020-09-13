@@ -11,13 +11,41 @@ footer {
   display: flex;
   background-color: #333333;
   color: #BEBEBE;
+  padding: 30px;
+}
+
+footer section {
   padding: 10px;
-  padding-bottom: 30px;
+}
+
+footer section label {
+  font-size: 16pt;
+  font-weight: bold;
+}
+
+footer section li {
+  margin-bottom: 4px;
+}
+
+footer section li a {
+  text-decoration: none;
+}
+
+footer section li a:visited {
+  color: #BEBEBE;
+}
+
+footer section li a:hover {
+  color: #46AB72;
+}
+
+footer section p {
+  margin-bottom: 4px;
 }
 
 footer p#copyright {
   position: absolute;
   bottom: 0;
   right: 0;
-  padding: 10px;
+  padding: 30px;
 }
