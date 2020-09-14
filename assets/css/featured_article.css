@@ -28,7 +28,7 @@ article a svg#shader_wrapper {
   opacity: 0.45;
 }
 
-article p#credit {
+article p.credit {
   color: white;
   font: bold;
   font-size: 11pt;

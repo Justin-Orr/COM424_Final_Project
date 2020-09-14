@@ -26,15 +26,20 @@ footer section li {
 
 footer section li a {
   text-decoration: none;
+  color: #BEBEBE;
   font-size: 12pt;
 }
 
 footer section li a:visited {
-  color: #BEBEBE;
+  color: inherit;
 }
 
 footer section li a:hover {
   color: #46AB72;
+}
+
+footer section li a:active {
+  color: inherit;
 }
 
 footer section p {

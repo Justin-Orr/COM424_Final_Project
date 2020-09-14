@@ -10,3 +10,7 @@
   src: url(fonts/Montserrat-Bold.ttf),
        url(fonts/Montserrat-Medium.ttf);
 }
+
+.greenText {
+  color: #46AB72;
+}

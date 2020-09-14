@@ -1,0 +1,14 @@
+main {
+  font-family: Montserrat;
+  text-align: center;
+}
+
+main .section_header {
+  font-size: 32pt;
+  color: #323232;
+}
+
+main .section_text {
+  font-size: 12pt;
+  color: #323232;
+}
