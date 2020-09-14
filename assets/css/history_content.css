@@ -1,0 +1,52 @@
+.event_panel {
+  max-width: 100%;
+  max-height: 300px;
+  position: relative;
+  overflow: hidden;
+  font-family: Lato;
+  border: 1px solid black;
+}
+
+.event_panel:visited {
+  color: #323232;
+}
+
+.event_panel:hover {
+  text-decoration-color: #323232 ;
+  text-decoration: underline;
+}
+
+.event_panel a {
+  text-decoration: none;
+  display: inline-flex;
+}
+
+.event_panel a:hover {
+  text-decoration-color: #323232;
+  display: inline-flex;
+}
+
+.event_img {
+  max-width: 40%;
+  width: 100%;
+  height: auto;
+  border-right: 1px solid black;
+}
+
+section summary p {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.sub_header {
+  font-weight: bold;
+  font-size: 24pt;
+  color: #323232;
+}
+
+.event_detail {
+  padding-bottom: 20px;
+  font-size: 16pt;
+  max-width: 90%;
+  color: #323232;
+}
