@@ -6,9 +6,26 @@ main {
 main .section_header {
   font-size: 32pt;
   color: #323232;
+  padding-top: 30px;
+  padding-bottom: 20px;
 }
 
 main .section_text {
-  font-size: 12pt;
+  font-size: 16pt;
   color: #323232;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-bottom: 30px;
+}
+
+#OurTeam {
+  background-color: #323232;
+}
+
+#OurTeam .section_header {
+  color: white;
+}
+
+#OurTeam .section_text {
+  color: white;
 }
