@@ -31,13 +31,14 @@ main .section_text {
   text-align: left;
   padding-bottom: 30px;
   width: 100%;
-  margin-left: 5%;
-  margin-right: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 #board_of_directors td{
   justify-content: space-between;
   align-items: center;
+  padding-left: 60px;
 }
 
 #OurTeam .section_text {
@@ -57,23 +58,27 @@ main .section_text {
   font-size: 16pt;
 }
 
+#OurStory {
+  max-width: 100%;
+}
+
 #OurStory article {
   display: inline-flex;
   align-items: center;
-  padding: 60px;
+  padding: 30px;
+  padding-left: 60px;
+  padding-right: 60px;
 }
-
 
 #OurStory img {
   width: 600px;
   height: auto;
-  padding-right: 60px;
 }
 
 #OurStory p:not(.section_header) {
   display: block;
   text-align: left;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
   font-size: 16pt;
   margin-right: 15%;
 }
