@@ -63,22 +63,20 @@ main .section_text {
 }
 
 #OurStory article {
-  display: inline-flex;
-  align-items: center;
   padding: 30px;
   padding-left: 60px;
   padding-right: 60px;
+  margin-bottom: 90px;
 }
 
 #OurStory img {
   width: 600px;
   height: auto;
+  padding-right: 30px;
 }
 
 #OurStory p:not(.section_header) {
   display: block;
-  text-align: left;
-  padding-bottom: 50px;
   font-size: 16pt;
-  margin-right: 15%;
+  text-align: justify;
 }
