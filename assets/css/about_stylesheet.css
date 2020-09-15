@@ -24,8 +24,35 @@ main .section_text {
 
 #OurTeam .section_header {
   color: white;
+  padding-bottom: 6px;
+}
+
+#board_of_directors {
+  text-align: left;
+  padding-bottom: 30px;
+  width: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#board_of_directors td{
+  justify-content: space-between;
+  align-items: center;
 }
 
 #OurTeam .section_text {
   color: white;
+  padding-bottom: 60px;
+}
+
+.bod_name {
+  color: #46AB72;
+  font-weight: bold;
+  font-size: 18pt;
+}
+
+.bod_company {
+  color: white;
+  padding-bottom: 50px;
+  font-size: 16pt;
 }
