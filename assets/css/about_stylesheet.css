@@ -56,3 +56,24 @@ main .section_text {
   padding-bottom: 50px;
   font-size: 16pt;
 }
+
+#OurStory article {
+  display: inline-flex;
+  align-items: center;
+  padding: 60px;
+}
+
+
+#OurStory img {
+  width: 600px;
+  height: auto;
+  padding-right: 60px;
+}
+
+#OurStory p:not(.section_header) {
+  display: block;
+  text-align: left;
+  padding-bottom: 30px;
+  font-size: 16pt;
+  margin-right: 15%;
+}
